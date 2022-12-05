@@ -1,0 +1,16 @@
+.daddy{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    list-style: none;
+
+}
+.daddy li{
+    
+    padding:0.5rem 1rem  ;
+    font-size:1rem ;
+    border-left: 0.05rem solid white;
+}
+.daddy li a{
+     color:  white;
+}
